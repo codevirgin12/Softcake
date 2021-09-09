@@ -1,0 +1,1 @@
+console.log('jeg heter frøya');
